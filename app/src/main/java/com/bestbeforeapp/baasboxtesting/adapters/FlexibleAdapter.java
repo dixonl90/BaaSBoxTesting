@@ -1,15 +1,15 @@
 package com.bestbeforeapp.baasboxtesting.adapters;
 
+import android.support.v7.widget.RecyclerView;
+import android.util.Log;
+import android.view.ViewGroup;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
-
-import android.support.v7.widget.RecyclerView;
-import android.util.Log;
-import android.view.ViewGroup;
 
 /**
  * This class provides a set of standard methods to handle changes on the data set

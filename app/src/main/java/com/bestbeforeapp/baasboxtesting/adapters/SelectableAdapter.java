@@ -1,12 +1,12 @@
 package com.bestbeforeapp.baasboxtesting.adapters;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-
 import android.os.Bundle;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.List;
 
 /**
  * This class provides a set of standard methods to handle the selection on the items of an Adapter.
